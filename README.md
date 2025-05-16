@@ -12,6 +12,8 @@ All content here is adapted, anonymized, or built from scratch to reflect real-w
 - Power Automate
 - ChatGPT and Julius for Prompt Engineering
 - VS Code + Extensions
+- PowerShell Scripts
+- Splunk Queries
 - IT Asset & IAM frameworks
 - Lucid
 - O365

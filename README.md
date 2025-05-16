@@ -5,6 +5,7 @@ This is part showcase, part sandbox. You’ll find:
 - 📝 Project charters, SOPs, and user-friendly IT documentation
 - ⚙️ Templates for asset management, IAM governance, and compliance
 - 🤖 Early-stage automation with Power Automate (coming soon)
+- ⚙️ Powershell Scripts and Splunk Queries
 - 💬 AI prompt libraries for policy writing and workflow drafting
 All content here is adapted, anonymized, or built from scratch to reflect real-world standards with a creative twist.
 # 🔧 Tools Used (or Coming Soon)

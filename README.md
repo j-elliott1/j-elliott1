@@ -13,11 +13,12 @@ All content here is adapted, anonymized, or built from scratch to reflect real-w
 - Power Automate
 - ChatGPT and Julius for Prompt Engineering
 - VS Code + Extensions
-- PowerShell Scripts
-- Splunk Queries
+- PowerShell
+- Splunk
 - IT Asset & IAM frameworks
 - Lucid
 - O365
+- M365 Admin, Entra ID, Exchange Admin, Purview
 - Adobe Acrobat
 - Who knows at this point what we will get in to!
 # 🌱 Why Am I Doing This

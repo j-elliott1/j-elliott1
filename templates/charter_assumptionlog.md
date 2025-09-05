@@ -7,6 +7,7 @@
 **Project Purpose / Justification**
 
 •	Business Case: Why is this project being undertaken?
+
 •	Alignment with organizational strategy or objectives
 
 **Project Description**
@@ -24,6 +25,7 @@
 **High-Level Scope**
 
 •	In Scope: [What is included]
+
 •	Out of Scope: [What is explicitly excluded]
 
 **Major Deliverables**
@@ -41,11 +43,13 @@
 **Budget Summary**
 
 •	Initial funding estimate
+
 •	Authorized budget or financial resources
 
 **Project Manager Authority**
 
 •	Name of Project Manager
+
 •	Level of authority (e.g., can approve up to $XX, can assign resources, etc.)
 
 **Key Stakeholders**
@@ -57,6 +61,7 @@
 **Risks (High-Level)**
 
 •	Initial risks identified at project authorization
+
 •	E.g., dependency on vendor availability, regulatory approvals
 
 **Assumption Log (Initial)**

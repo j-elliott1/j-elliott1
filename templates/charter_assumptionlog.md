@@ -73,4 +73,5 @@
 **Approval Signatures**
 
 •	Project Sponsor: ___________________ (Date)
+
 •	Steering Committee (if applicable): ___________________ (Date)

@@ -19,7 +19,8 @@
 **High-Level Scope**
 •	In Scope: [What is included]
 •	Out of Scope: [What is explicitly excluded]
-*Major Deliverables*
+
+**Major Deliverables**
 [List significant deliverables the project will produce]
 
 **High-Level Milestones**

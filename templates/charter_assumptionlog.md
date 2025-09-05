@@ -1,3 +1,6 @@
+Here’s a PMI-aligned Project Charter template (as implied by the PMBOK® Guide, 7th edition and earlier editions). I’ve included all the common elements and added an Assumption Log section so you have a ready-to-use framework. This template reflects PMI’s recommended Project Charter content and integrates an Assumption Log so you can begin tracking assumptions right away instead of waiting until later in the project.
+
+
 **Project Charter Template**
 
 **Project Title**

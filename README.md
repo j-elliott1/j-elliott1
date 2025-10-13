@@ -15,7 +15,7 @@ All content here is adapted, anonymized, or built from scratch to reflect real-w
 - VS Code + Extensions
 - PowerShell
 - Splunk
-- IT Asset & IAM frameworks
+- Software and IT Assets & IAM frameworks
 - Lucid
 - O365
 - M365 Admin, Entra ID, Exchange Admin, Purview

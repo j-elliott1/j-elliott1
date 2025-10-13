@@ -141,7 +141,7 @@ If you’d like to improve or extend this questionnaire:
 2. Make your changes  
 3. Submit a pull request  
 
-Suggestions for improvement are encouraged — especially around cloud security, privacy, and AI vendor risk.
+Suggestions for improvement are encouraged, especially around cloud security, privacy, and AI vendor risk.
 
 ---
 

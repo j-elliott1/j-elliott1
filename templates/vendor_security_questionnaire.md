@@ -147,7 +147,8 @@ Suggestions for improvement are encouraged, especially around cloud security, pr
 
 ## 🛡️ License  
 
-This template is released under the **MIT License**.  
+This template is released under the **MIT License**.  > See the [LICENSE](../LICENSE) file for details.
+
 You may freely use, modify, or distribute it for your organization’s vendor risk management program.
 
 ---

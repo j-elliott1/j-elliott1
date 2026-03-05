@@ -1,11 +1,11 @@
-# 🛂 Identity and Access Management (IAM) Onboarding SOP
+# Identity and Access Management (IAM) Onboarding SOP
 
 **Purpose:**  
 To ensure new employees are provisioned with the correct system access, in accordance with security and compliance policies.
 
 ---
 
-## 🔄 Scope
+## Scope
 
 Applies to:
 - Full-time employees
@@ -19,7 +19,7 @@ Covers:
 
 ---
 
-## 🧩 Process Steps
+## Process Steps
 
 1. **Request Received**
    - Manager submits onboarding request via ticketing system
@@ -46,14 +46,14 @@ Covers:
 
 ---
 
-## 🧪 Quality Control
+## Quality Control
 
 - Weekly audits by IT Security to verify access matches job function
 - Quarterly review of inactive accounts
 
 ---
 
-## 🔐 Notes
+## Notes
 
 - Always follow least privilege principles
 - Elevated access requires manager and security officer approval

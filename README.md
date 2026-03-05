@@ -1,12 +1,12 @@
-# 🧩 TechWrite + Automate: A Modern Documentation Hub
+# TechWrite + Automate: A Modern Documentation Hub
 The goal is to create a living library of project documentation, technical writing samples, and automation prototypes — designed to streamline IT operations, identity governance, and beyond.
 # 📚 What You'll Find Here
 This is part showcase, part sandbox. You’ll find:
-- 📝 Project charters, SOPs, and user-friendly IT documentation
-- ⚙️ Templates for asset management, IAM governance, and compliance
-- 🤖 Early-stage automation with Power Automate (coming soon)
-- ⚙️ Powershell Scripts and Splunk Queries
-- 💬 AI prompt libraries for policy writing and workflow drafting
+- Project charters, SOPs, and user-friendly IT documentation
+- Templates for asset management, IAM governance, and compliance
+- Early-stage automation with Power Automate (coming soon)
+- Powershell Scripts and Splunk Queries
+- AI prompt libraries for policy writing and workflow drafting
 All content here is adapted, anonymized, or built from scratch to reflect real-world standards with a creative twist.
 # 🔧 Tools Used (or Coming Soon)
 - Markdown + Diagrams.net
@@ -32,7 +32,7 @@ Current examples include:
 🛡️ Governance & Compliance Resources: supporting risk management, audits, and business continuity efforts
 
 Contributions and suggestions for new templates are always welcome!
-# 🌱 Why Am I Doing This
+# Why Am I Doing This
 Because good documentation isn’t a luxury, it’s the backbone of secure, efficient, and ethical tech.  
 And maybe, just maybe, we can learn something and have a little fun along the way.
 

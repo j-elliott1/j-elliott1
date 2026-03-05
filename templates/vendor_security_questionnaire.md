@@ -7,7 +7,7 @@
 
 ---
 
-### 🔍 Overview  
+### Overview  
 This open-source **Vendor Risk Questionnaire** helps organizations assess third-party vendors for **security, compliance, privacy, and operational risks**.  
 It’s designed to support risk management, procurement, and IT governance teams in ensuring vendors meet your company’s cybersecurity and data protection standards.
 
@@ -18,7 +18,7 @@ You can:
 
 ---
 
-## 1️⃣ General Information  
+## 1️ General Information  
 
 | Question | Response |
 |-----------|-----------|
@@ -35,7 +35,7 @@ You can:
 
 ---
 
-## 2️⃣ Security Management  
+## 2️ Security Management  
 
 | Question | Response |
 |-----------|-----------|
@@ -49,7 +49,7 @@ You can:
 
 ---
 
-## 3️⃣ Data Protection & Privacy  
+## 3️ Data Protection & Privacy  
 
 | Question | Response |
 |-----------|-----------|
@@ -63,7 +63,7 @@ You can:
 
 ---
 
-## 4️⃣ Infrastructure & Application Security  
+## 4️ Infrastructure & Application Security  
 
 | Question | Response |
 |-----------|-----------|
@@ -77,7 +77,7 @@ You can:
 
 ---
 
-## 5️⃣ Incident Response & Business Continuity  
+##  Incident Response & Business Continuity  
 
 | Question | Response |
 |-----------|-----------|
@@ -90,7 +90,7 @@ You can:
 
 ---
 
-## 6️⃣ Compliance & Governance  
+##  Compliance & Governance  
 
 | Question | Response |
 |-----------|-----------|
@@ -102,7 +102,7 @@ You can:
 
 ---
 
-## 7️⃣ Subprocessors & Third Parties  
+##  Subprocessors & Third Parties  
 
 | Question | Response |
 |-----------|-----------|
@@ -113,7 +113,7 @@ You can:
 
 ---
 
-## 8️⃣ Additional Information  
+##  Additional Information  
 
 | Question | Response |
 |-----------|-----------|
@@ -125,7 +125,7 @@ You can:
 
 ---
 
-## 📘 Instructions for Use  
+## Instructions for Use  
 
 1. **Fork or download** this questionnaire.  
 2. Fill out responses directly in the Markdown file or in your preferred spreadsheet format.  
@@ -133,7 +133,7 @@ You can:
 
 ---
 
-## 🤝 Contributing  
+## Contributing  
 
 Contributions are welcome!  
 If you’d like to improve or extend this questionnaire:
@@ -145,7 +145,7 @@ Suggestions for improvement are encouraged, especially around cloud security, pr
 
 ---
 
-## 🛡️ License  
+## License  
 
 This template is released under the **MIT License**.  > See the [LICENSE](../LICENSE) file for details.
 
@@ -153,7 +153,7 @@ You may freely use, modify, or distribute it for your organization’s vendor ri
 
 ---
 
-### 🌐 Maintainer Note  
+### Maintainer Note  
 If you’d like to use this in a professional toolkit, feel free to link back to this repository or credit the author in your documentation.  
 Maintained by the open-source community and security professionals worldwide.
 

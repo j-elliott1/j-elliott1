@@ -166,7 +166,7 @@ This guide applies to all employees, contractors, and third-party vendors involv
 
 ---
 
-## 📚 References
+## References
 
 - NIST SP 800-61r2 — Computer Security Incident Handling Guide  
 - ISO/IEC 27035 — Information Security Incident Management  

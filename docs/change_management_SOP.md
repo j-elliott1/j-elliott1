@@ -154,7 +154,7 @@ All approvals must be documented within the CR record, including reviewer names,
 
 ---
 
-## 📚 References
+## References
 
 - ISO/IEC 20000-1 — IT Service Management  
 - ISO 27001 — Information Security Controls (Change Control)  

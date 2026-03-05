@@ -1,10 +1,10 @@
-# 📄 Project Charter Template
+# Project Charter Template
 
 > Use this template to define scope, goals, stakeholders, and risks for any IT or business project.
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 
 **Project Name:**  
 **Project Sponsor:**  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Objective 1  
 - Objective 2  
@@ -22,7 +22,7 @@
 
 ---
 
-## 🧩 Scope
+## Scope
 
 **In-Scope:**
 - Bullet list of in-scope features or actions
@@ -32,7 +32,7 @@
 
 ---
 
-## 👥 Stakeholders
+## Stakeholders
 
 | Name            | Role               | Responsibility         |
 |-----------------|--------------------|-------------------------|
@@ -41,7 +41,7 @@
 
 ---
 
-## ⚠️ Risks & Mitigation
+## Risks & Mitigation
 
 | Risk                          | Impact | Likelihood | Mitigation Strategy              |
 |-------------------------------|--------|------------|----------------------------------|
@@ -50,6 +50,6 @@
 
 ---
 
-## 📝 Notes
+## Notes
 
 *Feel free to adapt or expand based on your project's complexity.*

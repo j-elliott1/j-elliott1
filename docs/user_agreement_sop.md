@@ -40,7 +40,7 @@ This SOP applies to:
 
 ---
 
-## ⚙️ User Agreement Management Process
+## User Agreement Management Process
 
 ### **1. Request and Verification**
 - The user submits a **Software Access Request** through the approved system (e.g., ServiceNow, Jira, or internal form).  
@@ -140,7 +140,7 @@ Retention period: **3 years after termination or software removal**, whichever c
 
 ---
 
-## 📚 References
+## References
 
 - ISO/IEC 19770-1 — Software Asset Management  
 - ISO/IEC 27001 — Information Security Management  

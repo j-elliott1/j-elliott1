@@ -1,4 +1,4 @@
-# ⚙️ Power Automate Flows (Coming Soon)
+# Power Automate Flows (Coming Soon)
 
 This folder will include:
 

@@ -1,10 +1,10 @@
-# 💬 AI Prompt Library: IT Policies & Documentation
+# AI Prompt Library: IT Policies & Documentation
 
 A curated collection of prompts designed to help generate and improve IT policies, governance documents, and technical SOPs using LLMs like ChatGPT.
 
 ---
 
-## ✍️ Prompts for Policy Drafting
+## Prompts for Policy Drafting
 
 **Prompt:**  
 "Draft an Acceptable Use Policy for a midsize organization focused on data protection and remote work security."
@@ -14,7 +14,7 @@ A curated collection of prompts designed to help generate and improve IT policie
 
 ---
 
-## ⚙️ Prompts for Workflow Outlining
+## Prompts for Workflow Outlining
 
 **Prompt:**  
 "Create a step-by-step identity onboarding workflow for a new hire in Azure AD, including approval points."
@@ -24,7 +24,7 @@ A curated collection of prompts designed to help generate and improve IT policie
 
 ---
 
-## 🌐 Use Cases
+## Use Cases
 
 - Drafting policy frameworks  
 - Enhancing clarity in SOPs  

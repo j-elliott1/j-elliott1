@@ -1,5 +1,5 @@
 # TechWrite + Automate: A Modern Documentation Hub
-The goal is to create a living library of project documentation, technical writing samples, and automation prototypes — designed to streamline IT operations, identity governance, and beyond.
+The goal is to create a living library of project documentation, technical writing samples, and automation prototypes designed to streamline IT operations, identity governance, and beyond.
 # 📚 What You'll Find Here
 This is part showcase, part sandbox. You’ll find:
 - Project charters, SOPs, and user-friendly IT documentation
@@ -8,7 +8,7 @@ This is part showcase, part sandbox. You’ll find:
 - Powershell Scripts and Splunk Queries
 - AI prompt libraries for policy writing and workflow drafting
 All content here is adapted, anonymized, or built from scratch to reflect real-world standards with a creative twist.
-# 🔧 Tools Used (or Coming Soon)
+# 🔧 Tools Used
 - Markdown + Diagrams.net
 - Power Automate
 - ChatGPT and Julius for Prompt Engineering

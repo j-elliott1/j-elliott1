@@ -15,7 +15,7 @@ This Risk Register identifies potential risks that may affect the success of the
 
 ---
 
-## ⚠️ Risk Log
+## Risk Log
 
 | ID | Risk Description | Category | Likelihood | Impact | Risk Rating (L×I) | Mitigation Strategy | Contingency Plan | Owner | Status | Review Date |
 |----|------------------|-----------|-------------|---------|-------------------|--------------------|------------------|--------|----------|--------------|
@@ -27,7 +27,7 @@ This Risk Register identifies potential risks that may affect the success of the
 
 ---
 
-## 🧮 Risk Scoring Matrix
+## Risk Scoring Matrix
 
 | **Likelihood** | **Impact** | **Score (L×I)** | **Risk Level** |
 |----------------|-------------|------------------|----------------|
@@ -40,7 +40,7 @@ This Risk Register identifies potential risks that may affect the success of the
 
 ---
 
-## 🧩 Risk Management Notes
+## Risk Management Notes
 
 - **Review Frequency:** Monthly or after major project milestones  
 - **Change Control:** All updates should be versioned via Git commits  
